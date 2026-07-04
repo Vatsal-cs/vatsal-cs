@@ -1,116 +1,129 @@
 <div align="center">
 
-# Hi, I'm Vatsal Jain 👋
+# Vatsal Jain
 
-### Computer Science Student @ University of Alberta
+### Building software that people remember.
 
-Building software, exploring AI, and learning how complex systems work.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+Explorer;Learning+Systems;Future+Quant+Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Learning+Quantitative+Finance;Always+Building+Something+New"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=vatsal-cs&style=for-the-badge&color=58A6FF"/>
+<img src="https://img.shields.io/github/followers/vatsal-cs?style=for-the-badge&color=58A6FF"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💻 whoami
 
-- 🎓 Computer Science @ University of Alberta
-- 💻 Full Stack Developer
-- 🤖 Interested in AI & Machine Learning
-- 📈 Learning Quantitative Finance
-- 🌱 Currently building real-world applications
-- ⚡ I enjoy turning ideas into products.
+```bash
+$ whoami
 
----
+Name        :: Vatsal Jain
+Role        :: Computer Science Student
+University  :: University of Alberta
 
-## 🛠 Tech Stack
+Focus
+├── Full Stack Development
+├── Artificial Intelligence
+├── Systems
+└── Quantitative Finance
 
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+Current Status
+└── Building real-world products > collecting certificates
+```
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Current Mission
+
+- Build software people actually use
+- Master system design
+- Learn Rust & Go
+- Explore AI agents and LLMs
+- Break into quantitative development
+
+---
+
+# ⚒️ Tech Stack
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,react,next,nodejs,tailwind,postgres,mongodb,docker,git,github,linux,vscode&perline=8"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔐 Digital Identity Platform | Secure campus identity & access |
+| 🌐 Personal Portfolio | Modern portfolio with Next.js |
+| 🤖 AI Experiments | LLMs, automation & AI workflows |
+| ⚙️ Backend APIs | Scalable backend services |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vatsal-cs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal-cs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-🌟 Social Distribution Platform
-
-> University project focused on secure student identity and resource distribution.
-
----
-
-🌟 Personal Portfolio
-
-> Modern portfolio built with Next.js.
-
----
-
-🌟 AI Experiments
-
-> Exploring LLMs, automation and intelligent workflows.
-
----
-
-## 🌎 Connect
+# 📈 Activity Graph
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsal-cs&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
+# 🧠 Fun Facts
 
+```text
+☕ Coffee → Code
+
+🐛 Bugs fixed > Bugs created (hopefully)
+
+⌨️ Ctrl + Z is my best friend
+
+🌙 Late-night coding sessions are productive.
+
+🚀 Always building. Always learning.
+```
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🤝 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
 
 <div align="center">
 
-> "The best way to predict the future is to build it."
+### Thanks for visiting 👋
+
+Once you set up the snake GitHub Action, uncomment the line below.
+
+<!--
+<img src="https://raw.githubusercontent.com/vatsal-cs/vatsal-cs/output/github-contribution-grid-snake-dark.svg"/>
+-->
 
 </div>
