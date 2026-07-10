@@ -1,129 +1,170 @@
 <div align="center">
 
-# Vatsal Jain
+# Hi, I'm Vatsal Jain 👋
 
-### Building software that people remember.
+### Software Engineering Student @ University of Alberta 🇨🇦
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+Explorer;Learning+Systems;Future+Quant+Developer" />
+Building intelligent software with **AI**, **Full Stack**, **Data Engineering**, and **Cloud**.
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=vatsal-cs&style=for-the-badge&color=58A6FF"/>
-<img src="https://img.shields.io/github/followers/vatsal-cs?style=for-the-badge&color=58A6FF"/>
-</p>
+📚 Expected Graduation: **2027**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-# 💻 whoami
+# 👨‍💻 About Me
 
-```bash
-$ whoami
+I'm a Computing Science student at the **University of Alberta** passionate about building software that solves real-world problems.
 
-Name        :: Vatsal Jain
-Role        :: Computer Science Student
-University  :: University of Alberta
+My interests span across:
 
-Focus
-├── Full Stack Development
-├── Artificial Intelligence
-├── Systems
-└── Quantitative Finance
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 🌐 Full Stack Development
+- 📊 Data Engineering
+- 🔬 Research Engineering
 
-Current Status
-└── Building real-world products > collecting certificates
-```
+I enjoy taking ideas from concept to deployment, combining scalable backend systems, modern web technologies, and machine learning to create practical applications.
 
 ---
 
-# 🚀 Current Mission
+# 🚀 Currently Learning
 
-- Build software people actually use
-- Master system design
-- Learn Rust & Go
-- Explore AI agents and LLMs
-- Break into quantitative development
+- Cloud Architecture
+- Distributed Systems
+- Modern AI Engineering
+- Scalable Backend Design
+- MLOps & Model Deployment
 
 ---
 
-# ⚒️ Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,react,next,nodejs,tailwind,postgres,mongodb,docker,git,github,linux,vscode&perline=8"/>
-</p>
+### Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+
+### Frontend
+
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### Backend
+
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Django](https://skillicons.dev/icons?i=django)
+
+### Databases
+
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+### AI & Data
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- PyTorch
+- Power BI
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
 # 🌟 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔐 Digital Identity Platform | Secure campus identity & access |
-| 🌐 Personal Portfolio | Modern portfolio with Next.js |
-| 🤖 AI Experiments | LLMs, automation & AI workflows |
-| ⚙️ Backend APIs | Scalable backend services |
+### 🛡 SentinelIQ
+
+AI-powered security intelligence platform focused on intelligent analysis and threat detection.
+
+**Tech:** Python • AI • FastAPI
 
 ---
 
-# 📊 GitHub Analytics
+### 🎟 Elotto App
+
+Android event lottery application built with a modern mobile architecture.
+
+**Tech:** Java • Firebase • Android Studio
+
+---
+
+### 🛒 CLI-Shop
+
+Command-line shopping system demonstrating relational databases and software engineering principles.
+
+**Tech:** Python • SQLite • SQL
+
+---
+
+### 📈 Project Delay Prediction
+
+Machine learning model that predicts construction project delays using historical data.
+
+**Tech:** Python • Scikit-Learn • Pandas
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vatsal-cs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal-cs&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vatsal-cs&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsal-cs&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vatsal-cs&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📊 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsal-cs&theme=tokyo-night&hide_border=true"/>
-</p>
+[![Vatsal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vatsal-cs&theme=github-dark&hide_border=true)](https://github.com/Vatsal-cs)
 
 ---
 
-# 🧠 Fun Facts
+# 💡 Current Focus
 
-```text
-☕ Coffee → Code
-
-🐛 Bugs fixed > Bugs created (hopefully)
-
-⌨️ Ctrl + Z is my best friend
-
-🌙 Late-night coding sessions are productive.
-
-🚀 Always building. Always learning.
-```
+- Building production-ready software
+- Exploring Cloud & AI Engineering
+- Learning scalable system design
+- Contributing to impactful projects
+- Preparing for Software Engineering internships
 
 ---
 
-# 💬 Random Dev Quote
+# 🤝 Let's Connect
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+📧 Email: vatsalj05@gmail.com 
 
----
-
-# 🤝 Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
+💼 LinkedIn: [](https://www.linkedin.com/in/vatsal-jain-873920228/)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting 👋
-
-Once you set up the snake GitHub Action, uncomment the line below.
-
-<!--
-<img src="https://raw.githubusercontent.com/vatsal-cs/vatsal-cs/output/github-contribution-grid-snake-dark.svg"/>
--->
+*"Great software isn't just written—it is designed, tested, and continuously improved."*
 
 </div>
