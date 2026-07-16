@@ -127,24 +127,6 @@ Machine learning model that predicts construction project delays using historica
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vatsal-cs&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsal-cs&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vatsal-cs&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 [![Vatsal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vatsal-cs&theme=github-dark&hide_border=true)](https://github.com/Vatsal-cs)
