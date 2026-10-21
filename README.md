@@ -2,22 +2,24 @@
 
 # Vatsal Jain
 
-<a href="https://var-ified-xi.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=E0A64A&center=true&vCenter=true&width=560&lines=Software+engineer+who+ships;Full-stack%2C+ML%2C+data+and+cloud;My+FPL+team+is+run+by+code+I+wrote;Live+in+production+for+%240+a+month" alt="Software engineer who ships"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=E0A64A&center=true&vCenter=true&width=560&lines=Aspiring+AI+and+software+engineer;Full-stack%2C+ML%2C+data+and+cloud;My+FPL+team+is+run+by+code+I+wrote;Live+in+production+for+%240+a+month" alt="Aspiring AI and software engineer">
 
 **Computing Science @ University of Alberta '27** · full-stack · machine learning · data · cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-jain-873920228/)
 [![Email](https://img.shields.io/badge/vatsalj05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vatsalj05@gmail.com)
-[![VAR-ified XI](https://img.shields.io/badge/VAR--ified_XI-live_site-000000?style=flat-square&logo=vercel&logoColor=white)](https://var-ified-xi.vercel.app)
 
 </div>
 
 ---
 
-- 🧠 Built an AI that runs my Fantasy Premier League team: it predicts every player, solves for the optimal moves six weeks out, and re-plans itself before every deadline
-- 🌐 Shipped a production website with its own CMS for a real client, which their team runs without touching code
-- 🔬 I don't ship on vibes: 24 experiments, 22 pre-registered, and I once caught a 175-point swing hiding in a random seed
-- 💸 VAR-ified XI runs around the clock on free tiers: **$0 a month**
+🎯 **Aspiring**&nbsp; ![AI Engineer](https://img.shields.io/badge/AI_Engineer-30363d?style=flat-square) ![Software Engineer](https://img.shields.io/badge/Software_Engineer-30363d?style=flat-square) ![ML Engineer](https://img.shields.io/badge/ML_Engineer-30363d?style=flat-square) ![MLOps / DevOps](https://img.shields.io/badge/MLOps_%2F_DevOps-30363d?style=flat-square) ![Cloud Engineer](https://img.shields.io/badge/Cloud_Engineer-30363d?style=flat-square) ![Data Engineer](https://img.shields.io/badge/Data_Engineer-30363d?style=flat-square) ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack_Developer-30363d?style=flat-square) ![Research Engineer](https://img.shields.io/badge/Research_Engineer-30363d?style=flat-square)
+
+💡 **Into**&nbsp; AI agents and LLM apps · MLOps and model deployment · cloud architecture · distributed systems · data pipelines · optimization
+
+📚 **Learning now**&nbsp; designing scalable backends, running models in production, and building on the cloud
+
+⚽ **Off the clock**&nbsp; football, and losing sleep over Fantasy Premier League deadlines
 
 ---
 
