@@ -2,9 +2,9 @@
 
 # Vatsal Jain
 
-<a href="https://var-ified-xi.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=E0A64A&center=true&vCenter=true&width=640&lines=I+build+ML+systems+that+have+to+prove+they+work;My+Fantasy+Premier+League+team+is+run+by+a+model+I+built;It+re-plans+itself+before+every+deadline.+I+just+hit+confirm;Shipped+to+production+on+a+%240+budget" alt="I build ML systems that have to prove they work"></a>
+<a href="https://var-ified-xi.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=E0A64A&center=true&vCenter=true&width=560&lines=Software+engineer+who+ships;Full-stack%2C+ML%2C+data+and+cloud;My+FPL+team+is+run+by+code+I+wrote;Live+in+production+for+%240+a+month" alt="Software engineer who ships"></a>
 
-**Computing Science @ University of Alberta '27** · machine learning · optimization · full-stack
+**Computing Science @ University of Alberta '27** · full-stack · machine learning · data · cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-jain-873920228/)
 [![Email](https://img.shields.io/badge/vatsalj05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vatsalj05@gmail.com)
@@ -15,9 +15,9 @@
 ---
 
 - 🧠 Built an AI that runs my Fantasy Premier League team: it predicts every player, solves for the optimal moves six weeks out, and re-plans itself before every deadline
-- 🔬 I don't trust my own models: 24 experiments, 22 pre-registered before a single result, and the failures stay on the record
-- 🕵️ Found a 175-point swing hiding in a random seed, and two silent train/serve bugs no backtest could see
-- 💸 Everything I ship runs on **$0 a month**
+- 🌐 Shipped a production website with its own CMS for a real client, which their team runs without touching code
+- 🔬 I don't ship on vibes: 24 experiments, 22 pre-registered, and I once caught a 175-point swing hiding in a random seed
+- 💸 VAR-ified XI runs around the clock on free tiers: **$0 a month**
 
 ---
 
