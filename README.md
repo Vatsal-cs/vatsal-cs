@@ -21,7 +21,7 @@
 
 ---
 
-### ⚽ [VAR-ified XI](https://var-ified-xi.vercel.app)
+### ⚽ [VAR-ified XI](https://var-ified-xi.vercel.app) <sub>[code →](https://github.com/Vatsal-cs/var-ified-xi)</sub>
 XGBoost reads ~87,000 gameweeks of football, a mixed-integer solver turns that into provably optimal transfers, and GitHub Actions runs the whole thing on autopilot. A new idea only ships if it beats the live model on real points.
 
 [![Model is planning](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvar-ified-xi.vercel.app%2Foptimized_team.json&query=%24.gameweek&label=model%20is%20planning&prefix=GW%20&style=flat-square&color=E0A64A&labelColor=1B1816)](https://var-ified-xi.vercel.app)
