@@ -19,8 +19,6 @@
 
 📚 **Learning now**&nbsp; designing scalable backends, running models in production, and building on the cloud
 
-⚽ **Off the clock**&nbsp; football, and losing sleep over Fantasy Premier League deadlines
-
 ---
 
 ### ⚽ [VAR-ified XI](https://var-ified-xi.vercel.app)
