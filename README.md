@@ -37,13 +37,6 @@ Shipped a bilingual (English + Hindi) production site with its own custom CMS fo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### 🛡️ [SentinelIQ](https://github.com/Vatsal-cs/sentineliq)
-Fraud detection that knows when it's unsure: XGBoost on 590,540 transactions (**AUC-PR 0.70**), calibrated confidence, and seven graded responses instead of a blunt freeze. [Live demo →](https://sentineliq-godbless.streamlit.app)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
 ### 🎟️ [Elotto](https://github.com/Vatsal-cs/Elotto_app)
 Killed first-come-first-served sign-ups with a fair lottery: an Android app with random draws, auto-redraws, QR codes and geofencing, built with a team of six.
 
